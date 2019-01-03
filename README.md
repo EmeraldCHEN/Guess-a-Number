@@ -4,7 +4,7 @@ This program is mostly the project from FromCoding for Visual Learners: Learning
 
 This game is just about 200 lines simply using p5.js. However it is not recommended to use p5.js to build any game again due to its low responsiveness.
 
-It's easy to play
+It's easy to play ^_^
 
 - Guess a number and press its corresponding key to see if it's correct or not.
 
