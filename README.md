@@ -1,6 +1,6 @@
 # Guess a Number - a simple JS + p5.js game
 
-This program is mostly the project from FromCoding for Visual Learners: Learning JavaScript from Scratch @Lynda.com whose author is Engin Arslan.
+This program is mostly the project from Coding for Visual Learners: Learning JavaScript from Scratch @Lynda.com whose author is Engin Arslan.
 
 This game is just about 200 lines simply using p5.js. However it is not recommended to use p5.js to build any game again due to its low responsiveness.
 
