@@ -1,11 +1,5 @@
 # Guess a Number - a simple JS + p5.js game
 
-This program is mostly the project from Coding for Visual Learners: Learning JavaScript from Scratch @Lynda.com
-
-Author: Engin Arslan
-
-URL: https://www.lynda.com/JavaScript-tutorials/Coding-Visual-Learners-Learning-JavaScript-from-Scratch/782143-2.html
-
 This game is just about 200 lines simply using p5.js. However it is not recommended to use p5.js to build any game again due to its low responsiveness.
 
 It's easy to play ^_^
@@ -15,3 +9,9 @@ It's easy to play ^_^
 - If the time of wrong guesses reaches 5 or the total amount of game played is up to 10, the game would be over
 
 - Press ENTER to replay the game
+
+This program is mostly the project from Coding for Visual Learners: Learning JavaScript from Scratch @Lynda.com
+
+Author: Engin Arslan
+
+URL: https://www.lynda.com/JavaScript-tutorials/Coding-Visual-Learners-Learning-JavaScript-from-Scratch/782143-2.html
