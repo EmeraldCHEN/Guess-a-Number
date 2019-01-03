@@ -6,8 +6,8 @@ This game is just about 200 lines simply using p5.js. However it is not recommen
 
 It's easy to play ^_^
 
-- Guess a number and press its corresponding key to see if it's correct or not.
+- Guess a number and press its corresponding key to see if it's correct or not
 
-- If the time of wrong guesses reaches 5 or the total amount of game played is up to 10, the game would be over.
+- If the time of wrong guesses reaches 5 or the total amount of game played is up to 10, the game would be over
 
-- Press ENTER to replay the game.
+- Press ENTER to replay the game
