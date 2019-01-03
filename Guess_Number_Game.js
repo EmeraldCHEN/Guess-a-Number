@@ -1,6 +1,4 @@
-$(document).ready(function(){
-    $('[data-toggle="popover"]').popover();   
-  });
+
     let guessNumber = null;
     let interval = 50;
     let results = [];
@@ -93,8 +91,7 @@ $(document).ready(function(){
         translate(0, 100); 
         text('Press ENTER to Restart ', 0, 0);  
         
-        pop();
-       
+        pop();       
     }
 
     function getGameScore(score){
@@ -227,19 +224,5 @@ $(document).ready(function(){
         }
     }
 
-
-    
-  
-         
     
     
-    
-    
-    /*  p5.js新手入门   https://zhuanlan.zhihu.com/p/28250070
-
-        P5.js and Web Dev    https://happycoding.io/tutorials/p5js/web 
-
-        p5.js Online Editor     https://editor.p5js.org/
-
-        p5.js screen.width vs window.innerWidth  https://github.com/processing/p5.js/issues/193
-    */
