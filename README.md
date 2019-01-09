@@ -10,7 +10,7 @@ It's easy to play ^_^
 
 - Press ENTER to replay the game
 
-This program is mostly the project from Coding for Visual Learners: Learning JavaScript from Scratch @Lynda.com
+This project is created with reference of the course "Coding for Visual Learners: Learning JavaScript from Scratch" @Lynda.com
 
 Author: Engin Arslan
 
