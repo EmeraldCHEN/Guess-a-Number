@@ -2,7 +2,7 @@
 
 This game is just about 200 lines simply using p5.js. However it is not recommended to use p5.js to build any game again due to its low responsiveness.
 
-It's easy to play ^_^ :relaxed: :smiley:
+It's easy to play :smiley:
 
 - Guess a number and press its corresponding key to see if it's correct or not
 
