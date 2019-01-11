@@ -4,6 +4,8 @@ This game is just about 200 lines simply using p5.js. However it is not recommen
 
 It's easy to play :smiley:
 
+You can play on GitPage 
+
 - Guess a number and press its corresponding key to see if it's correct or not
 
 - If the time of wrong guesses reaches 5 or the total amount of game played is up to 10, the game would be over
